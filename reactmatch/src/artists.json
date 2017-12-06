@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "name": "Vincent van Gogh", 
+        "image": "https://www.biography.com/.image/t_share/MTM3NTk5OTY0Mjc5NzQzNzMw/vincent_van_gogh_self_portrait_painting_musee_dorsay_via_wikimedia_commons_promojpg.jpg", 
+        "clicked": false
+    }, 
+    {
+        "id": 2, 
+        "name": "Edmonia Lewis", 
+        "image": "https://www.biography.com/.image/t_share/MTE1ODA0OTcxNjk5MzczNTgx/maryedmonia-lewis-wc-9381053-1-402.jpg", 
+        "clicked": false
+    }, 
+    {
+        "id": 3, 
+        "name": "Robert Scott Duncanson", 
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Robert_S._Duncanson_%281821-1872%29.jpg/220px-Robert_S._Duncanson_%281821-1872%29.jpg", 
+        "clicked": false
+    }, 
+    {
+        "id": 4, 
+        "name": "Henry Ossawa Tanner", 
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Henry_Ossawa_Tanner.jpg", 
+        "clicked": false
+    }, 
+    {
+        "id": 5, 
+        "name": "Georgia O'Keeffe", 
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/O%27Keeffe-%28hands%29.jpg/1200px-O%27Keeffe-%28hands%29.jpg", 
+        "clicked": false
+    }, 
+    {
+        "id": 6, 
+        "name": "Maria Sibylla Merian" , 
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Maria_Sibylla_Merian_portrait_from_500DM_banknote.png/220px-Maria_Sibylla_Merian_portrait_from_500DM_banknote.png", 
+        "clicked": false
+    }, 
+    {
+        "id": 7, 
+        "name": "Natalia Sergeyevna Goncharova", 
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Natalia_Sergeyevna_Goncharova.jpg", 
+        "clicked": false
+    }, 
+    {
+        "id": 8, 
+        "name": "Gustav Klimt", 
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1smktGSdb111AoVJBSQa7xNRkrITSCkAWRwFyaEN3i2YWJK2r", 
+        "clicked": false
+    }, 
+    {
+        "id": 9, 
+        "name": "Elizabeth Catlett", 
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/20/Elizabeth_Catlett.jpg", 
+        "clicked": false
+    }, 
+    {
+        "id": 10, 
+        "name": "Francisco José de Goya" , 
+        "image": "https://www.thefamouspeople.com/profiles/images/francisco-goya-1.jpg", 
+        "clicked": false
+    }
+]
