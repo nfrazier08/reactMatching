@@ -1,0 +1,11 @@
+.title {
+    width: 100%;
+    background: black;
+    text-align: center;
+    font-size: 3rem;
+    /* text-decoration: underline; */
+    padding: 3rem;
+    color: white;
+    margin-bottom: 50px;
+  }
+  
