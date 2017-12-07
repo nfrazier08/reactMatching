@@ -8,7 +8,7 @@
     {
         "id": 2, 
         "name": "Edmonia Lewis", 
-        "image": "https://www.biography.com/.image/t_share/MTE1ODA0OTcxNjk5MzczNTgx/maryedmonia-lewis-wc-9381053-1-402.jpg", 
+        "image": "https://www.biography.com/.image/t_share/MTE1ODA0OTcxNjk5MzczNTgx/maryedmonia-lewis-wc-9381053-1-402.jpg",
         "clicked": false
     }, 
     {
@@ -56,7 +56,7 @@
     {
         "id": 10, 
         "name": "Francisco José de Goya" , 
-        "image": "https://www.thefamouspeople.com/profiles/images/francisco-goya-1.jpg", 
+        "image": "https://www.thefamouspeople.com/profiles/images/francisco-goya-1.jpg",
         "clicked": false
     }
 ]
