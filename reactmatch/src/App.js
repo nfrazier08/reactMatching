@@ -39,14 +39,18 @@ class App extends Component {
     })
   }
   
-  //Function to increase the score when the artist card is initially clicked
+  //Function to increase the score when the artist card is initially
   increaseScore = () => {
     this.setState({score: this.state.score + 1}) 
   }
 
   //Function to reset the game, if artist is already clicked
   resetGame = () => {
-    this.setState({score: 0}) 
+    this.setState({score: 0});
+    {this.state.artists.map(artist => {
+        artist.clicked = false;
+      })
+    }
   }
   
 
