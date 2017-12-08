@@ -29,7 +29,7 @@ class App extends Component {
           console.log(`${artist.name} has ALREADY been clicked`)
           //This is where you reset the game, because player clicked on artist card 
             //That was previously clicked
-            this.setState({youLose: "You Lose! Game Over!"}, () => this.resetGame())          
+            this.setState({youLose: "You Lose! Game Over!"}, () => setTimeout(() => (this.resetGame()), 1000))     
             // this.resetGame();
           }
         else {
@@ -96,7 +96,7 @@ class App extends Component {
     this.setState({
       score: 0, 
       clickedName: "",
-      youLose:""
+      youLose:" "
     });
 
     this.state.artists.forEach((artist) => {
