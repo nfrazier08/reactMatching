@@ -7,7 +7,12 @@
     float: left;
     width: 230px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-    text-align: left;    
+    text-align: left;  
+    
+}
+
+.card{ 
+  margin-left: 45px;
 }
 
 .card > .img-container {
